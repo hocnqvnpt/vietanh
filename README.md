@@ -1,6 +1,6 @@
 # VNPtt
 Phát triển mới, BSC, Duy trì
-#HDSD
+# HDSD
  + pull (kéo về): lấy code của thằng làm chung đã push (đẩy) lên.
       Pull từ từ branch nào về branch hiện tại cũng được, nếu pull từ branch khác thì sẽ có "Merge" xảy ra,
           còn pull từ cũng branch thì là như update code base. 
